@@ -1,0 +1,6 @@
+{
+  "name": "ร้านปลาหมึกย่าง TikTok Live Interactive",
+  "description": "เกมไลฟ์สดร้านปลาหมึกย่าง 3D สุดน่ารัก เชื่อมต่อของขวัญ TikTok Live สั่งซื้อและช่วยย่าง พร้อมตู้ปลาหมึกสดและกระดานผู้นำเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
